@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="_blank">
+      <a href="https://www.linkedin.com/in/aquiles-hernan-moya-64a842195/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
