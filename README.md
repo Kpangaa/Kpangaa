@@ -13,7 +13,7 @@
 ### Vibing to <img alt="Spotify" height="17" width="17" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"> . . .
 <div align="center">
 
-[![Spotify](https://novatorem-rho-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi)
+[![Spotify](https://novatorem-rho-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/31kummh2a6s5ptvahchxg7xmz7sq)
 
 </div>
 <h3 align="left">Connect with me . . .</h3>
