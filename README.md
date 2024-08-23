@@ -100,7 +100,7 @@
       <br>Udemy
     </td>
     <td align="center" width="96">
-      <a href="https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi" target="_blank">
+      <a href="https://open.spotify.com/user/31kummh2a6s5ptvahchxg7xmz7sq" target="_blank">
         <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="48" height="48" alt="Udemy" />
       </a>
       <br>Spotify
